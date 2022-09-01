@@ -50,7 +50,7 @@ Users should be able to:
 <table>
         <tr>
 		    <td>
-                <img src="./screenshots/mobile-solution.webp"
+                <img src="./screenshots/mobile--screenshot.PNG"
                     alt="Mobile solution" width="100%" title="Mobile solution"  />
             </td>
           <td>
@@ -62,8 +62,8 @@ Users should be able to:
 
 ### Links
 
--   [Solution][solution-url]
--   [Live Page][live-page]
+- [Solution](https://github.com/UsamaBinKashif/Interactive-Card-Details-Form)
+- [Live Page](https://interactiveform.vercel.app/)
 
 ## My process
 
